@@ -1,0 +1,16 @@
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\bin\Debug\Prac1.exe
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\bin\Debug\Prac1.pdb
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\obj\Debug\Prac1.csprojAssemblyReference.cache
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\obj\Debug\Prac1.Form1.resources
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\obj\Debug\Prac1.Properties.Resources.resources
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\obj\Debug\Prac1.csproj.GenerateResource.cache
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\obj\Debug\Prac1.csproj.CoreCompileInputs.cache
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\obj\Debug\Prac1.csproj.CopyComplete
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\obj\Debug\Prac1.exe
+C:\Users\Jaisal Shah\source\repos\Prac1\Prac1\obj\Debug\Prac1.pdb
